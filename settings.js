@@ -20,25 +20,25 @@ global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
 global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['18722444298'] //ur owner number
+global.ownername = "nauman" //ur owner name
+global.ytname = "YT: nomi" //ur yt chanel name
+global.socialm = "GitHub: nomi" //ur github or insta name
+global.location = "India, pakistan, Aizawl" //ur location
 
 //bot bomdy 
 global.session = "WFJ4MIoxcUs=" //session Id
 global.ownernomer = "18722444298" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
+global.premium = ['18722444298'] //ur premium number
 global.botname = 'Nk Bot' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://www.darknero.ga/' //script link
+global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com" //ur website to be displayed
+global.botscript = 'https://www.bunernauman.tk/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "Dnauman By" //ur sticker watermark packname
+global.author = "nauman" //ur sticker watermark author
+global.wm = "nomi Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
